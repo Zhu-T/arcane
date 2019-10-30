@@ -1,0 +1,28 @@
+7[?47h[27m[24m[0m[H[J[30;1H"D:/Downloads/Game/.git/COMMIT_EDITMSG" [converted][unix] 7851L, 562595C[2;1H[1m[36m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [0m[1m[31mmaster[0m
+[1m[36m#
+# Initial commit
+#
+# [0m[1m[34mChanges to be committed:[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/360 Rotation.anim[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/360 Rotation.anim.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Attack.anim[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Attack.anim.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Book.anim[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Book.anim.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Boss 1.controller[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Boss 1.controller.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Boss 2.controller[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Boss 2.controller.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Boss.controller[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/Boss.controller.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/BossAttack.anim[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/BossAttack.anim.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/BossIdle.anim[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/BossIdle.anim.meta[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/BossLaugh.anim[0m
+[1m[36m#       [0m[1m[32mnew file[0m[1m[36m: [0m[1m[35m  Assets/Animations/BossLaugh.anim.meta[0m
+[1m[7mD:/Downloads/Game/.git/COMMIT_EDITMSG [unix] (11:15 30/10/2019)                                                1,0-1 Top[1;1H[0m[30;1HType  :qa  and press <Enter> to exit Vim[30;41H[K[1;1H
